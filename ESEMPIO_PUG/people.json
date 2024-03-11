@@ -1,0 +1,33 @@
+{
+    "profiles": [
+      {
+        "firstname": "Emanuele",
+        "lastname": "Frasca",
+        "bio": "Nato a Roma nel 1979 da padre siciliano, originario di Modica, è cresciuto nel quartiere Monte Sacro. Si è avvicinato all'hip hop nei primi anni novanta, iniziando come writer ed entrando a far parte dei TBF Crew e dei Savage Boys. Poco dopo ha conosciuto Fetz Darko, grazie al quale è entrato nel gruppo Erreaccanegativo, iniziando a fare i primi freestyle. Nel 1996 abbandonò il gruppo per continuare a dedicarsi alla scrittura. Nel 2000 si è riavvicinato all'hip hop e nel corso di una jam session ha conosciuto i rapper Gel, Metal Carter, DJ Kimo e Cole, fondatori dei Truceboys. \n\n Insieme hanno intrapreso una collaborazione culminata nel 2003 con la pubblicazione dell'unico album in studio Sangue.",        
+        "tagline": "Rapper",
+        "twitter": "https://twitter.com/Noyzofficial",
+        "imgSrc": "css/images/Noyz.jpg",
+        "id": "Noyz Narcos"
+      },
+   
+      {
+        "firstname": "Armando",
+        "lastname": "Sciotto",
+        "bio": "Si avvicina al mondo hip hop fin da giovane, inizialmente come skater e in seguito come writer, facendosi conoscere nell'ambiente come Chico. È rimasto orfano di padre all'età di sei anni. Ha vissuto ad Amsterdam per quattro anni dal 1998, per poi far ritorno a Roma. Fa parte degli ZTK (Zoo Tang Klan), noto collettivo di writing attivo a Roma.",
+        "tagline": "Rapper",
+        "twitter": "https://twitter.com/chicoriaztktk",
+        "imgSrc": "css/images/Chicoria.jpg",
+        "id": "Chicoria"
+      },
+   
+      {
+        "firstname": "Andrea",
+        "lastname": "Ambrogio",
+        "bio": "Andrea Ambrogio, in arte Gemello, inizia la sua carriera nel collettivo TruceKlan e nel gruppo In The Panchine (con cui ha pubblicato due album). È laureato all’Accademia di Belle Arti e conosciuto anche come pittore. I quadri che dipinge spesso influenzano la sua maniera di scrivere canzoni e, in questo caso, lo stesso titolo dell’album è ispirato a quelle opere d’arte che non hanno bisogno di catturare l’attenzione con parole o frasi a effetto: ogni brano è un mondo a sé che si conquista una propria considerazione e rappresenta bene l’autore. Il suo ultimo disco La Quiete arriva dopo l’esordio solista del 2006, Non parlarmi d'altro, due EP, Niagara (2014) e Indiana (2017), ed il disco UNtitled; è un disco che nasce dalle tante passioni artistiche di Gemello, coltivate negli ultimi 15 anni, e riflette del tutto la sua personalità. Nel 2021 esce l'album La Quiete toglimi tutte le.",
+        "tagline": "Rapper",
+        "twitter": "https://twitter.com/GemelloTK",
+        "imgSrc": "css/images/Gemello.jpg",
+        "id": "Gemello"
+      }
+    ]
+   }
