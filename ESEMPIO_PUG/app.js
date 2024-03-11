@@ -6,8 +6,13 @@ app.set('view engine', 'pug');
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', (req, res) => {
-  res.render('index', {
+  res.render('home', {
     title: 'Homepage',
+  });
+});
+app.get('/index', (req, res) => {
+  res.render('index', {
+    title: 'Profili',
     people: people.profiles 
   });
 });

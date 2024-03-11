@@ -13,5 +13,5 @@ html
          div.person-image(style=`background: url('${person.imgSrc}') top center no-repeat; background-size: cover;`)
          h2.person-name
            | #{person.firstname} #{person.lastname}
-         a(href=`/profile?id=${person.id}`)
+         button(type="button" onclick=`location.href='/profile?id=${person.id}'`)
            | View Profile

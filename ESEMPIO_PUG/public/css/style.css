@@ -127,7 +127,19 @@
   }
   
   .button-twitter {
-    color: #FFFFFF;
-    background-color: #659AF1;
+    color: #ff0000;
+    background-color: #000000;
     border-radius: 5px;
+  }
+  .home h1 {
+    font-size: 2.5em;
+  }
+  
+  .home button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
   }
